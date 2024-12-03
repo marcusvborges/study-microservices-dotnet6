@@ -1,0 +1,11 @@
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.deps.json
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.dll
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.pdb
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.AssemblyInfoInputs.cache
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.AssemblyInfo.cs
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.csproj.CoreCompileInputs.cache
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.dll
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\refint\GeekShopping.PaymentProcessor.dll
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.pdb
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\ref\GeekShopping.PaymentProcessor.dll
