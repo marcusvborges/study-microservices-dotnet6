@@ -1,12 +1,9 @@
-﻿using GeekShopping.PaymentAPI.Model;
-using GeekShopping.PaymentAPI.Model.Context;
-using GeekShopping.PaymentAPI.Repository;
+﻿using GeekShopping.OrderAPI.Model;
+using GeekShopping.OrderAPI.Model.Context;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Linq;
 using System.Threading.Tasks;
 
-namespace GeekShopping.PaymentAPI.Repository
+namespace GeekShopping.OrderAPI.Repository
 {
     public class OrderRepository : IOrderRepository
     {

@@ -1,6 +1,6 @@
 ﻿using GeekShopping.MessageBus;
 
-namespace GeekShopping.PaymentAPI.RabbitMQSender
+namespace GeekShopping.OrderAPI.RabbitMQSender
 {
     public interface IRabbitMQMessageSender
     {

@@ -1,7 +1,7 @@
-﻿using GeekShopping.PaymentAPI.Model;
+﻿using GeekShopping.OrderAPI.Model;
 using System.Threading.Tasks;
 
-namespace GeekShopping.PaymentAPI.Repository
+namespace GeekShopping.OrderAPI.Repository
 {
     public interface IOrderRepository
     {

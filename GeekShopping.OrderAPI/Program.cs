@@ -1,8 +1,8 @@
-using GeekShopping.PaymentAPI;
+using GeekShopping.OrderAPI;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace GeekShopping.PaymentAPI
+namespace GeekShopping.OrderAPI
 {
     public class Program
     {

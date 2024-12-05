@@ -1,6 +1,6 @@
 ﻿using GeekShopping.MessageBus;
 
-namespace GeekShopping.PaymentAPI.Messages
+namespace GeekShopping.OrderAPI.Messages
 {
     public class PaymentVO : BaseMessage
     {

@@ -1,7 +1,7 @@
-﻿using GeekShopping.PaymentAPI.Messages;
-using GeekShopping.PaymentAPI.Model;
-using GeekShopping.PaymentAPI.RabbitMQSender;
-using GeekShopping.PaymentAPI.Repository;
+﻿using GeekShopping.OrderAPI.Messages;
+using GeekShopping.OrderAPI.Model;
+using GeekShopping.OrderAPI.RabbitMQSender;
+using GeekShopping.OrderAPI.Repository;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.Hosting;
 using RabbitMQ.Client;
@@ -13,7 +13,7 @@ using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace GeekShopping.PaymentAPI.MessageConsumer
+namespace GeekShopping.OrderAPI.MessageConsumer
 {
     public class RabbitMQCheckoutConsumer : BackgroundService
     {

@@ -1,9 +1,5 @@
-﻿//using GeekShopping.CartAPI.Repository;
-//using GeekShopping.OrderAPI.Messages;
-//using GeekShopping.OrderAPI.Model;
-//using GeekShopping.OrderAPI.RabbitMQSender;
-using GeekShopping.PaymentAPI.Messages;
-using GeekShopping.PaymentAPI.Repository;
+﻿using GeekShopping.OrderAPI.Repository;
+using GeekShopping.OrderAPI.Messages;
 using Microsoft.Extensions.Hosting;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;

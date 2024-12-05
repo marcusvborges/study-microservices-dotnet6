@@ -1,9 +1,9 @@
-﻿using GeekShopping.PaymentAPI.Model.Base;
+﻿using GeekShopping.OrderAPI.Model.Base;
 using System.Collections.Generic;
 using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace GeekShopping.PaymentAPI.Model
+namespace GeekShopping.OrderAPI.Model
 {
     [Table("order_header")]
     public class OrderHeader : BaseEntity

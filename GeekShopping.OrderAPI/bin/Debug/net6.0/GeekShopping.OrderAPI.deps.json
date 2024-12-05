@@ -8,43 +8,17 @@
     ".NETCoreApp,Version=v6.0": {
       "GeekShopping.OrderAPI/1.0.0": {
         "dependencies": {
-          "GeekShopping.CartAPI": "1.0.0",
           "GeekShopping.MessageBus": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.0-preview.6.21355.2",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.0-preview.6.21352.1",
           "Pomelo.EntityFrameworkCore.MySql": "6.0.0-preview.5",
-          "RabbitMQ.Client": "6.8.1",
+          "RabbitMQ.Client": "6.2.2",
           "Swashbuckle.AspNetCore": "6.1.5",
           "Swashbuckle.AspNetCore.Annotations": "6.1.5",
           "Swashbuckle.AspNetCore.SwaggerUI": "6.1.5"
         },
         "runtime": {
           "GeekShopping.OrderAPI.dll": {}
-        }
-      },
-      "AutoMapper/10.1.1": {
-        "dependencies": {
-          "Microsoft.CSharp": "4.7.0",
-          "System.Reflection.Emit": "4.7.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/AutoMapper.dll": {
-            "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.1.1.0"
-          }
-        }
-      },
-      "AutoMapper.Extensions.Microsoft.DependencyInjection/8.1.1": {
-        "dependencies": {
-          "AutoMapper": "10.1.1",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0-preview.6.21352.12",
-          "Microsoft.Extensions.Options": "6.0.0-preview.6.21352.12"
-        },
-        "runtime": {
-          "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.1.1.0"
-          }
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -66,7 +40,7 @@
           }
         }
       },
-      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.CSharp/4.5.0": {},
       "Microsoft.EntityFrameworkCore/6.0.0-preview.6.21352.1": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "6.0.0-preview.6.21352.1",
@@ -161,7 +135,7 @@
       "Microsoft.Extensions.Logging.Abstractions/6.0.0-preview.6.21352.12": {
         "dependencies": {
           "System.Buffers": "4.5.1",
-          "System.Memory": "4.5.5"
+          "System.Memory": "4.5.4"
         }
       },
       "Microsoft.Extensions.Options/6.0.0-preview.6.21352.12": {
@@ -220,7 +194,7 @@
       },
       "Microsoft.IdentityModel.Tokens/6.10.0": {
         "dependencies": {
-          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.CSharp": "4.5.0",
           "Microsoft.IdentityModel.Logging": "6.10.0",
           "System.Security.Cryptography.Cng": "4.5.0"
         },
@@ -261,15 +235,15 @@
           }
         }
       },
-      "RabbitMQ.Client/6.8.1": {
+      "RabbitMQ.Client/6.2.2": {
         "dependencies": {
-          "System.Memory": "4.5.5",
-          "System.Threading.Channels": "7.0.0"
+          "System.Memory": "4.5.4",
+          "System.Threading.Channels": "4.7.1"
         },
         "runtime": {
           "lib/netstandard2.0/RabbitMQ.Client.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.8.1.0"
+            "fileVersion": "6.2.2.0"
           }
         }
       },
@@ -337,37 +311,10 @@
           }
         }
       },
-      "System.Memory/4.5.5": {},
-      "System.Reflection.Emit/4.7.0": {},
+      "System.Memory/4.5.4": {},
       "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.6.21352.12": {},
       "System.Security.Cryptography.Cng/4.5.0": {},
-      "System.Threading.Channels/7.0.0": {
-        "runtime": {
-          "lib/net6.0/System.Threading.Channels.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          }
-        }
-      },
-      "GeekShopping.CartAPI/1.0.0": {
-        "dependencies": {
-          "AutoMapper": "10.1.1",
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
-          "GeekShopping.MessageBus": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.0-preview.6.21355.2",
-          "Pomelo.EntityFrameworkCore.MySql": "6.0.0-preview.5",
-          "RabbitMQ.Client": "6.8.1",
-          "Swashbuckle.AspNetCore": "6.1.5",
-          "Swashbuckle.AspNetCore.Annotations": "6.1.5",
-          "Swashbuckle.AspNetCore.SwaggerUI": "6.1.5"
-        },
-        "runtime": {
-          "GeekShopping.CartAPI.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
+      "System.Threading.Channels/4.7.1": {},
       "GeekShopping.MessageBus/1.0.0": {
         "runtime": {
           "GeekShopping.MessageBus.dll": {
@@ -384,20 +331,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AutoMapper/10.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-uMgbqOdu9ZG5cIOty0C85hzzayBH2i9BthnS5FlMqKtMSHDv4ts81a2jS1VFaDBVhlBeIqJ/kQKjQY95BZde9w==",
-      "path": "automapper/10.1.1",
-      "hashPath": "automapper.10.1.1.nupkg.sha512"
-    },
-    "AutoMapper.Extensions.Microsoft.DependencyInjection/8.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-xSWoVzOipuDU4PeZcUfaZQ+xqXU8QmGv5jrdlxt3MYm9xaOmrefqcfzGQ3SQ+D+8wfBa/ZwSuL0qKOVj080inA==",
-      "path": "automapper.extensions.microsoft.dependencyinjection/8.1.1",
-      "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512"
-    },
     "Humanizer.Core/2.8.26": {
       "type": "package",
       "serviceable": true,
@@ -412,12 +345,12 @@
       "path": "microsoft.aspnetcore.authentication.jwtbearer/6.0.0-preview.6.21355.2",
       "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.6.0.0-preview.6.21355.2.nupkg.sha512"
     },
-    "Microsoft.CSharp/4.7.0": {
+    "Microsoft.CSharp/4.5.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
-      "path": "microsoft.csharp/4.7.0",
-      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/6.0.0-preview.6.21352.1": {
       "type": "package",
@@ -587,12 +520,12 @@
       "path": "pomelo.entityframeworkcore.mysql/6.0.0-preview.5",
       "hashPath": "pomelo.entityframeworkcore.mysql.6.0.0-preview.5.nupkg.sha512"
     },
-    "RabbitMQ.Client/6.8.1": {
+    "RabbitMQ.Client/6.2.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-jNsmGgmCNw2S/NzskeN2ijtGywtH4Sk/G6jWUTD5sY9SrC27Xz6BsLIiB8hdsfjeyWCa4j4GvCIGkpE8wrjU1Q==",
-      "path": "rabbitmq.client/6.8.1",
-      "hashPath": "rabbitmq.client.6.8.1.nupkg.sha512"
+      "sha512": "sha512-+tJSgE+rQXgLvOxWvOxdZ0+No1EMa86+puZuNlCb4cNryHw2PY2Xiw/y2dz/WWdeJQp74Y2UnNXPkuLiYpvn+A==",
+      "path": "rabbitmq.client/6.2.2",
+      "hashPath": "rabbitmq.client.6.2.2.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.1.5": {
       "type": "package",
@@ -657,19 +590,12 @@
       "path": "system.identitymodel.tokens.jwt/6.10.0",
       "hashPath": "system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512"
     },
-    "System.Memory/4.5.5": {
+    "System.Memory/4.5.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
-      "path": "system.memory/4.5.5",
-      "hashPath": "system.memory.4.5.5.nupkg.sha512"
-    },
-    "System.Reflection.Emit/4.7.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
-      "path": "system.reflection.emit/4.7.0",
-      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+      "sha512": "sha512-1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
+      "path": "system.memory/4.5.4",
+      "hashPath": "system.memory.4.5.4.nupkg.sha512"
     },
     "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.6.21352.12": {
       "type": "package",
@@ -685,17 +611,12 @@
       "path": "system.security.cryptography.cng/4.5.0",
       "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
     },
-    "System.Threading.Channels/7.0.0": {
+    "System.Threading.Channels/4.7.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
-      "path": "system.threading.channels/7.0.0",
-      "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
-    },
-    "GeekShopping.CartAPI/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
+      "sha512": "sha512-6akRtHK/wab3246t4p5v3HQrtQk8LboOt5T4dtpNgsp3zvDeM4/Gx8V12t0h+c/W9/enUrilk8n6EQqdQorZAA==",
+      "path": "system.threading.channels/4.7.1",
+      "hashPath": "system.threading.channels.4.7.1.nupkg.sha512"
     },
     "GeekShopping.MessageBus/1.0.0": {
       "type": "project",

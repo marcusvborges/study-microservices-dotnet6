@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace GeekShopping.PaymentAPI.Migrations
+namespace GeekShopping.OrderAPI.Migrations
 {
     public partial class AddOrderDataTablesOnDB : Migration
     {

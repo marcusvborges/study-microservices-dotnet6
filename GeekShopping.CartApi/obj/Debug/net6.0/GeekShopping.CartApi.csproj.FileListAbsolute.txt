@@ -114,3 +114,4 @@ C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.CartApi
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.dll
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartAPI.sourcelink.json

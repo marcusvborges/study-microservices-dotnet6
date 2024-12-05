@@ -1,7 +1,7 @@
-﻿using GeekShopping.PaymentAPI.Model.Base;
+﻿using GeekShopping.OrderAPI.Model.Base;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace GeekShopping.PaymentAPI.Model
+namespace GeekShopping.OrderAPI.Model
 {
     [Table("order_detail")]
     public class OrderDetail : BaseEntity

@@ -1,8 +1,7 @@
 ﻿using GeekShopping.OrderAPI.MessageConsumer;
-using GeekShopping.PaymentAPI.MessageConsumer;
-using GeekShopping.PaymentAPI.Model.Context;
-using GeekShopping.PaymentAPI.RabbitMQSender;
-using GeekShopping.PaymentAPI.Repository;
+using GeekShopping.OrderAPI.Model.Context;
+using GeekShopping.OrderAPI.RabbitMQSender;
+using GeekShopping.OrderAPI.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -19,7 +18,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace GeekShopping.PaymentAPI
+namespace GeekShopping.OrderAPI
 {
     public class Startup
     {

@@ -1,4 +1,4 @@
-﻿namespace GeekShopping.PaymentAPI.Messages
+﻿namespace GeekShopping.OrderAPI.Messages
 {
     public class UpdatePaymentResultVO
     {
