@@ -1,0 +1,23 @@
+[33mcommit 76342565c0fd541f152ab74b9c57ad943aef3587[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Marcus Vinicius <marcusvbs2018@gmail.com>
+Date:   Tue Dec 10 17:15:16 2024 -0300
+
+    Feat: Implement RabbitMQMessageSender
+
+[33mcommit e0d15c62a56412e13b38f11297cc98fc3ca53293[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Marcus Vinicius <marcusvbs2018@gmail.com>
+Date:   Tue Dec 10 16:07:16 2024 -0300
+
+    update
+
+[33mcommit a316ccf7fa48ffaa14a5e8956a4888e5c31713d2[m
+Author: marcusvbs2018@gmail.com <marcus.vinicius@suportegerencial.com.br>
+Date:   Thu Dec 5 11:34:55 2024 -0300
+
+    Feat: Add GeekShopping.Email, Migrations and Exchanges in rabbitmq
+
+[33mcommit 54eab73ea6c941f2ecc3ee85c39231029cf71785[m
+Author: Marcus Vinicius <marcus.vinicius@suportegerencial.com.br>
+Date:   Tue Dec 3 16:31:54 2024 -0300
+
+    first commit
