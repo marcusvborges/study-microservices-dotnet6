@@ -5,10 +5,6 @@ C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservi
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\GeekShopping.OrderAPI.csproj.CoreCompileInputs.cache
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\GeekShopping.OrderAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\GeekShopping.OrderAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.CartAPI.deps.json
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.CartAPI.runtimeconfig.json
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.CartAPI.staticwebassets.runtime.json
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.CartAPI.exe
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\appsettings.json
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.OrderAPI.staticwebassets.runtime.json
@@ -17,8 +13,6 @@ C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservi
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.OrderAPI.runtimeconfig.json
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.OrderAPI.dll
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.OrderAPI.pdb
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\AutoMapper.dll
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\Humanizer.dll
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -39,10 +33,7 @@ C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservi
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\System.Threading.Channels.dll
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.CartAPI.dll
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
-C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.CartAPI.pdb
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\staticwebassets.development.json
@@ -110,3 +101,4 @@ C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAP
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\GeekShopping.OrderAPI.genruntimeconfig.cache
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\ref\GeekShopping.OrderAPI.dll
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\GeekShopping.OrderAPI.sourcelink.json
+C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.OrderAPI\obj\Debug\net6.0\GeekShopping.OrderAPI.sourcelink.json

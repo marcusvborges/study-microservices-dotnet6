@@ -1147,3 +1147,4 @@ C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.Web\obj
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.genruntimeconfig.cache
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\ref\GeekShopping.Web.dll
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\dotNetProjects\CURSO-MICROSSERVICES-DOTNET\projects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.sourcelink.json
