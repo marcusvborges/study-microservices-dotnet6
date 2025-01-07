@@ -1,6 +1,5 @@
 ﻿using GeekShopping.MessageBus;
 using GeekShopping.PaymentAPI.Messages;
-using Microsoft.AspNetCore.Components;
 using RabbitMQ.Client;
 using System;
 using System.Text;

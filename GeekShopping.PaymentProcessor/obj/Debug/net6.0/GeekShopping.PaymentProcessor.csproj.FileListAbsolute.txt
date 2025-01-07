@@ -9,3 +9,15 @@ C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.Payment
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\refint\GeekShopping.PaymentProcessor.dll
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.pdb
 C:\dotNetProjects\S08-NET6-FirstMicrosservices\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\ref\GeekShopping.PaymentProcessor.dll
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.deps.json
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.dll
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.pdb
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.AssemblyInfoInputs.cache
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.AssemblyInfo.cs
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.csproj.CoreCompileInputs.cache
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.sourcelink.json
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.dll
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\refint\GeekShopping.PaymentProcessor.dll
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.pdb
+C:\dotNetProjects\study-microservices-dotnet6\GeekShopping.PaymentProcessor\obj\Debug\net6.0\ref\GeekShopping.PaymentProcessor.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotNetProjects\\CURSO-MICROSSERVICES-DOTNET\\projects\\S08-NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.CoupomAPI\\GeekShopping.CouponAPI.csproj": {}
+    "C:\\dotNetProjects\\study-microservices-dotnet6\\GeekShopping.CoupomAPI\\GeekShopping.CouponAPI.csproj": {}
   },
   "projects": {
-    "C:\\dotNetProjects\\CURSO-MICROSSERVICES-DOTNET\\projects\\S08-NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.CoupomAPI\\GeekShopping.CouponAPI.csproj": {
+    "C:\\dotNetProjects\\study-microservices-dotnet6\\GeekShopping.CoupomAPI\\GeekShopping.CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotNetProjects\\CURSO-MICROSSERVICES-DOTNET\\projects\\S08-NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.CoupomAPI\\GeekShopping.CouponAPI.csproj",
+        "projectUniqueName": "C:\\dotNetProjects\\study-microservices-dotnet6\\GeekShopping.CoupomAPI\\GeekShopping.CouponAPI.csproj",
         "projectName": "GeekShopping.CouponAPI",
-        "projectPath": "C:\\dotNetProjects\\CURSO-MICROSSERVICES-DOTNET\\projects\\S08-NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.CoupomAPI\\GeekShopping.CouponAPI.csproj",
-        "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-        "outputPath": "C:\\dotNetProjects\\CURSO-MICROSSERVICES-DOTNET\\projects\\S08-NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.CoupomAPI\\obj\\",
+        "projectPath": "C:\\dotNetProjects\\study-microservices-dotnet6\\GeekShopping.CoupomAPI\\GeekShopping.CouponAPI.csproj",
+        "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
+        "outputPath": "C:\\dotNetProjects\\study-microservices-dotnet6\\GeekShopping.CoupomAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

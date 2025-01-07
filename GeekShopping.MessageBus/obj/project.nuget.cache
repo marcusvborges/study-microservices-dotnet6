@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/MaqPZpkYg=",
+  "dgSpecHash": "C2s+qoRlfgk=",
   "success": true,
-  "projectFilePath": "C:\\dotNetProjects\\CURSO-MICROSSERVICES-DOTNET\\projects\\S08-NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
+  "projectFilePath": "C:\\dotNetProjects\\study-microservices-dotnet6\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

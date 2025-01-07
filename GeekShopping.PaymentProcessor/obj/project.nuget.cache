@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "He5XaXSg2QU=",
+  "dgSpecHash": "XwAvbBSAyKA=",
   "success": true,
-  "projectFilePath": "C:\\dotNetProjects\\CURSO-MICROSSERVICES-DOTNET\\projects\\S08-NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj",
+  "projectFilePath": "C:\\dotNetProjects\\study-microservices-dotnet6\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
